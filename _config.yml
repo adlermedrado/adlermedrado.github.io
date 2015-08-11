@@ -1,0 +1,14 @@
+# Site settings
+title: Blog do Adler
+email: adler@adlermedrado.com.br
+description: >
+  Apenas um pai e marido que busca viver uma vida simples e justa
+  com sua família.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.adlermedrado.com.br"
+twitter_username: adlermedrado
+github_username:  adlermedrado
+
+# Build settings
+markdown: kramdown
+highlighter: pygments

@@ -13,4 +13,5 @@ Enquanto seu inimigo dorme quente em sua cama, você deve treinar o seu machado 
 
 E quando finalmente o olhar nos olhos, lembre o quanto ele está atrasado diante de você na arte da guerra.
 
-<em>[Imagem original](http://imgur.com/gallery/D8YgBNl)</em>
+
+_[Imagem original](http://imgur.com/gallery/D8YgBNl)_
